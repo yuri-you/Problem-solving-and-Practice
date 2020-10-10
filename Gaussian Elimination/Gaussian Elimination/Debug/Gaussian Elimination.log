@@ -1,0 +1,6 @@
+﻿  源.cpp
+C:\vs\Problem\Gaussian Elimination\Gaussian Elimination\源.cpp(9,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\vs\Problem\Gaussian Elimination\Gaussian Elimination\源.cpp(63,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\vs\Problem\Gaussian Elimination\Gaussian Elimination\源.cpp(67,24): warning C4101: “wrong”: 未引用的局部变量
+C:\vs\Problem\Gaussian Elimination\Gaussian Elimination\源.cpp(70,31): warning C4101: “wrong”: 未引用的局部变量
+  Gaussian Elimination.vcxproj -> C:\vs\Problem\Gaussian Elimination\Debug\Gaussian Elimination.exe

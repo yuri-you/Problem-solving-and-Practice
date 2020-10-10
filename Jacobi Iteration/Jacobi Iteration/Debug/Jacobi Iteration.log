@@ -1,0 +1,10 @@
+﻿  源.cpp
+C:\vs\Problem\Jacobi Iteration\Jacobi Iteration\源.cpp(57,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\vs\Problem\Jacobi Iteration\Jacobi Iteration\源.cpp(60,31): warning C4018: “<”: 有符号/无符号不匹配
+C:\vs\Problem\Jacobi Iteration\Jacobi Iteration\源.cpp(63,39): warning C4018: “<=”: 有符号/无符号不匹配
+C:\vs\Problem\Jacobi Iteration\Jacobi Iteration\源.cpp(71,27): warning C4018: “<=”: 有符号/无符号不匹配
+C:\vs\Problem\Jacobi Iteration\Jacobi Iteration\源.cpp(81,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\vs\Problem\Jacobi Iteration\Jacobi Iteration\源.cpp(98,20): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\vs\Problem\Jacobi Iteration\Jacobi Iteration\源.cpp(184,24): warning C4101: “wrong”: 未引用的局部变量
+C:\vs\Problem\Jacobi Iteration\Jacobi Iteration\源.cpp(187,31): warning C4101: “wrong”: 未引用的局部变量
+  Jacobi Iteration.vcxproj -> C:\vs\Problem\Jacobi Iteration\Debug\Jacobi Iteration.exe

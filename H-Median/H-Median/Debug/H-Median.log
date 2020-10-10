@@ -1,0 +1,8 @@
+﻿  源.cpp
+C:\vs\Problem\H-Median\H-Median\源.cpp(31,33): warning C4244: “return”: 从“_Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+C:\vs\Problem\H-Median\H-Median\源.cpp(33,69): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+  H-Median.vcxproj -> C:\vs\Problem\H-Median\Debug\H-Median.exe
