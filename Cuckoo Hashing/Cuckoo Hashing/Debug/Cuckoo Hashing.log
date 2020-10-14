@@ -1,0 +1,3 @@
+﻿  源.cpp
+C:\vs\Problem\Cuckoo Hashing\Cuckoo Hashing\源.cpp(38): warning C4715: “myhash”: 不是所有的控件路径都返回值
+  Cuckoo Hashing.vcxproj -> C:\vs\Problem\Cuckoo Hashing\Debug\Cuckoo Hashing.exe
