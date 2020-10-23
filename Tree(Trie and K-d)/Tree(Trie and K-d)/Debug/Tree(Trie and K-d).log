@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\vs\Problem\Tree(Trie and K-d)\Tree(Trie and K-d)\Tree.hpp(38,34): warning C4018: “<”: 有符号/无符号不匹配
+C:\vs\Problem\Tree(Trie and K-d)\Tree(Trie and K-d)\Tree.hpp(94,35): warning C4018: “<”: 有符号/无符号不匹配
+C:\vs\Problem\Tree(Trie and K-d)\Tree(Trie and K-d)\main.cpp(42,19): warning C4018: “<”: 有符号/无符号不匹配
+  Tree(Trie and K-d).vcxproj -> C:\vs\Problem\Tree(Trie and K-d)\Debug\Tree(Trie and K-d).exe
