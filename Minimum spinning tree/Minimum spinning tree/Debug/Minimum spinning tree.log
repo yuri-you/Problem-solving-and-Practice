@@ -1,0 +1,9 @@
+﻿  源.cpp
+C:\vs\Problem\Minimum spinning tree\Minimum spinning tree\源.cpp(56,22): warning C4244: “初始化”: 从“__int64”转换到“unsigned int”，可能丢失数据
+C:\vs\Problem\Minimum spinning tree\Minimum spinning tree\源.cpp(53): message : 在编译 类 模板 成员函数“prior_queue<p>::prior_queue(void)”时
+C:\vs\Problem\Minimum spinning tree\Minimum spinning tree\源.cpp(133): message : 查看对正在编译的函数 模板 实例化“prior_queue<p>::prior_queue(void)”的引用
+C:\vs\Problem\Minimum spinning tree\Minimum spinning tree\源.cpp(116): message : 查看对正在编译的 类 模板 实例化“prior_queue<p>”的引用
+C:\vs\Problem\Minimum spinning tree\Minimum spinning tree\源.cpp(34,24): warning C4244: “初始化”: 从“__int64”转换到“unsigned int”，可能丢失数据
+C:\vs\Problem\Minimum spinning tree\Minimum spinning tree\源.cpp(32): message : 在编译 类 模板 成员函数“void prior_queue<p>::doublesize(void)”时
+C:\vs\Problem\Minimum spinning tree\Minimum spinning tree\源.cpp(77): message : 查看对正在编译的函数 模板 实例化“void prior_queue<p>::doublesize(void)”的引用
+  Minimum spinning tree.vcxproj -> C:\vs\Problem\Minimum spinning tree\Debug\Minimum spinning tree.exe
