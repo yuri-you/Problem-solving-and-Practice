@@ -2,7 +2,7 @@
 ## Problem 2:Genetic Algorithm 
 >Use genetic algorithm to find x* that satisfies
 ><center>x* = arg min<sub>x</sub> x·sin(x)</center>
->with the x $\in$ (-1,15)
+>with the x∈(-1,15)
 
 In cpp file,I solve this problem using 5 functions and a class to store the data
 + 1.class of number
